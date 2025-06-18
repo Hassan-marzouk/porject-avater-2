@@ -43,16 +43,16 @@ a{
       border-bottom: 2px solid white;
        /* color:black ; */
     } 
-    a:hover{
-      border-bottom: 2px solid white;
-    }
-
     ul{
       list-style: none;
       width: 70%;
       display: flex;
       justify-content: space-evenly;
     }
+   li a:hover{
+      border-bottom: 2px solid white;
+    }
+
      .content{
       color: wheat;
      width: 50%;
